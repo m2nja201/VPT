@@ -35,9 +35,8 @@ python {train file name} --name="{result file name}" > {result file name}.txt
 ![image](https://github.com/m2nja201/VPT/assets/80443295/7d7000d5-f588-4335-9da4-c39d84268c20)
 ![image](https://github.com/m2nja201/VPT/assets/80443295/99953dd5-c669-4d7b-b305-fb17a0eddef6)
 
-
 ## 🖇️ Reference
-1. Tong He, Zhi Zhang, Hang Zhang, Zhongyue Zhang, Junyuan Xie, and Mu Li. Bag of tricks for image classifica-tion with convolutional neural networks. IEEE/CVF conference on computer vision and pattern recognition, pages 558–567, 2019.
-2. Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. Deep Residual Learning for Image Recognition. arXiv:1512.03385.
+1. **Visual Prompt Tuning** : https://arxiv.org/abs/2203.12119
+2. **Vision Transformer** : https://arxiv.org/abs/2010.11929
 
 
